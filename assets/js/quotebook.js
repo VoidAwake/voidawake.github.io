@@ -16,7 +16,8 @@ const quotes = [
   "If you’re not paying for the product, you are the product.",
   "'Does not stack' is the worst sentence in game design. The second worst sentence is 'does not work on bosses'.",
   "If you can't get out of it, get into it.",
-  "Black lives matter."
+  "Black lives matter.",
+  "Anything worth doing twice is worth automating."
 ]
 
 let elementOuter = document.getElementById('quotebookOuter')
