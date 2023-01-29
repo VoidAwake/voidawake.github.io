@@ -1,0 +1,4 @@
+baseURL = 'https://voidawake.github.io'
+languageCode = 'en-us'
+title = 'VoidAwake'
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
