@@ -84,3 +84,7 @@ body.is-loading #banner ul {
   text-transform: uppercase;
   margin-top: -14px;
 }
+
+a.special:not(.button):before {
+  padding-top: 1px;
+}
