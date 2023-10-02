@@ -12,12 +12,18 @@
   font-family: code;
 }
 
-#pseudonym, #quoteRefreshButton {
+#pseudonym {
   color: #ffffff66;
+}
+
+#quoteRefreshButton {
+  color: #ffffff66;
+  cursor: pointer;
 }
 
 #quotebookInner {
   text-transform: none;
+  border-bottom-style: none;
 }
 
 body.is-loading #banner ul {
